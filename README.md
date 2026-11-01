@@ -1,4 +1,4 @@
-> **Review snapshot.** Exported from internal commit `e8e63779b5ceb722476a366d3086603abf72accd`, as a single commit without its history. Records naming `PoVPlus.Knowledge` refer to that internal archive, which reviewers do not need. The conclusions here are claims to assess, not an approved result.
+> **Review snapshot.** Exported from internal commit `441a3874dfea35e792f35493e6a9bfba1a961edf`, without its history. Records naming `PoVPlus.Knowledge` refer to that internal archive, which reviewers do not need. The conclusions here are claims to assess, not an approved result.
 
 # PoVPlus knowledge base
 
